@@ -24,6 +24,6 @@ answers = [
   'По моим данным — «нет»', 
 ]
 puts greetings.sample
-puts ''
+puts
 sleep 2
 puts answers.sample
